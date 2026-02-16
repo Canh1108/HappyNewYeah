@@ -547,12 +547,12 @@ store.subscribe(handleStateChange);
 const WISH_MESSAGES = [
 	"Năm mới an khang thịnh vượng",
 	"Năm mới bình an",
-	"Chúc mọi điều ước của em đều trở thành hiện thực ✨",
+	"Chúc mọi điều ước của Bé Gấu đều trở thành hiện thực ✨",
 	"Chúc gia đình em luôn bình an và hạnh phúc ❤️",
 	"Chúc em luôn khỏe mạnh và tràn đầy năng lượng 💪",
 	"Chúc công việc thuận lợi, thăng tiến không ngừng 🚀",
 	"Chúc em luôn mỉm cười và yêu đời mỗi ngày 😊",
-	"Chúc em gặp nhiều may mắn và niềm vui 🎉",
+	"Chúc Bí Le gặp nhiều may mắn và niềm vui 🎉",
 ];
 
 // Sinh 1 câu chúc bay lên
